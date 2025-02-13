@@ -4,7 +4,7 @@
 This is a fullstack url shortening project build with reactjs and nodejs
 
 ## Description
-URL Shortener is a web application that allows users to create short and easy-to-share URLs from long and complex ones. It is built with React.js for the frontend and Node.js for the backend. It also uses MongoDB as a database service to store the URL mappings. This ui is a solution for a [Frontend Mentor challenge](https://www.frontendmentor.io/challenges). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+URL Shortener is a web application that allows users to create short and easy-to-share URLs from long and complex ones. It is built with React.js for the frontend and Node.js for the backend. It also uses MongoDB as a database service to store the URL mappings. 
 
 ## Overview
 
@@ -21,11 +21,6 @@ Users should be able to:
 
 ![url-shortener](https://github.com/Plasticfoods/URL-Shortener/assets/109089484/42dc9e47-39c4-4636-8071-808f3e4a8833)
 
-### Links
-* [Live URL](https://render-little-url.netlify.app/)
-* [Solution](https://github.com/Plasticfoods/URL-Shortener)
-
-## My process
 
 ### Built with
 
@@ -38,5 +33,3 @@ Users should be able to:
 - [Express](https://expressjs.com/) - Nodejs framework
 - [MongoDB](https://www.mongodb.com/) - NoSQL databases
  
-## Contributing
-If you want to contribute to this project, you can report issues, suggest new features, or submit pull requests on GitHub. Please follow the code of conduct and the contribution guidelines before making any changes.
